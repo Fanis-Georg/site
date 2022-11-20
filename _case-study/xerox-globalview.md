@@ -12,3 +12,5 @@ tags:
   - GUI
   - Xerox
 ---
+
+{% include cs-xerox-globalview.md %}
