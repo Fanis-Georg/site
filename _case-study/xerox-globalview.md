@@ -10,5 +10,4 @@ tags:
   - xerox
   - gui
 ---
-
 {% include cs-xerox-globalview.md %}
