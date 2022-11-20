@@ -1,16 +1,14 @@
 ---
 author: p16kyri
-title: Xerox Globalview
-image_url: /images/XeroxGlobalview.png
-caption: Το Xerox Globalview είναι ένα desktop environment σχεδιασμένο για επαγγελματική χρήση με βασικότερο σκοπό την επεξεργασία εγγράφων. Ήταν η εξέλιξη 
-του Star Viewpoint και δεν είχε μεγάλη επιτυχία καθώς είχε μείνει σχετικά πίσω σε σχέση με τους ανταγωνιστές του. 
-license_url: http://toastytech.com/guis/gvedit.png
+title: "Xerox Globalview"
+image_url: /images/xerox-alto.jpg
+caption:Το Xerox Globalview είναι ένα desktop environment σχεδιασμένο για επαγγελματική χρήση με βασικότερο σκοπό την επεξεργασία εγγράφων. Ήταν η εξέλιξη του Star Viewpoint και δεν είχε μεγάλη επιτυχία καθώς είχε μείνει σχετικά πίσω σε σχέση με τους ανταγωνιστές του.
 categories:
-  - Γραφική Διεπαφή Χρήστη
   - Μελέτη Περίπτωσης
+  - Γραφική Διεπαφή Χρήστη 
 tags:
-  - GUI
-  - Xerox
+  - xerox
+  - gui
 ---
 
-{% include cs-xerox-globalview.md %}
+{% include cs-alto.md %}
