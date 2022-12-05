@@ -11,5 +11,5 @@ tags:
   - Holy C
 ---
 
-{% include bio-Terry-Davis.md %}
+{% include bio-terry-davis.md %}
 
