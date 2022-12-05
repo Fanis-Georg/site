@@ -6,10 +6,10 @@ caption: "Το Jupyter Notebook παραμένει μέχρι και σήμερ�
 categories:
   - Εργαλεία
   - Επεξεργαστής Κειμένου
-  - Ολοκληρομένο Περιβάλλον Ανάπτυξης
+  - Ολοκληρωμένο Περιβάλλον Ανάπτυξης
 tags:
   - Project Jupyter
   - Notebooks
 ---
 
-{% include cs-jupyter-notebook.md %}
+{% include cs-jupyter.md %}
