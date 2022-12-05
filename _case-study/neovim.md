@@ -13,4 +13,4 @@ tags:
   - open source projects
 ---
 
-{% include cs-jupyter.md %}
+{% include cs-neovim.md %}
