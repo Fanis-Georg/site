@@ -2,12 +2,12 @@
 author: MarAkar98
 title: "William Redington Hewlett"
 image_url: /images/hp2.jpg
-caption: "Ο William "Bill" Hewlett μαζί με τον φίλο και συνεργάτη του δημιούργησε το 1939 την εταιρία Hewlett-Packard η οποία έγινε μια απο τις μεγαλύτερες εταιρίες ηλεκτρονικών και υπολογιστών στον κόσμο."
+caption: "Ο William Bill Hewlett μαζί με τον φίλο και συνεργάτη του δημιούργησε το 1939 την εταιρία Hewlett-Packard η οποία έγινε μια απο τις μεγαλύτερες εταιρίες ηλεκτρονικών και υπολογιστών."
 categories:
   - Βιογραφία 
   - Ορισμός 
 tags:
-  - William Redington Hewlett
+  - William Hewlett
   - David Packard
   - HP
 ---
