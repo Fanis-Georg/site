@@ -1,6 +1,6 @@
 ---
 layout: timeline 
-title: TempleOS
+title: Λειτουργικά Συστήματα
 image_url: /images/templeOS.jpg
 caption: Λειτουργικά συστήματα
 events:
